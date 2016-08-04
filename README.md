@@ -1,1 +1,3 @@
-# tanoshii_ruby
+# たのしいRuby
+
+書籍「たのしいRuby」の学習履歴とGitの操作練習です。
