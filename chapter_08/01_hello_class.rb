@@ -1,5 +1,5 @@
 class HelloWorld
-  def initialize(myname = 'Ruby')
+  def initialize(myname = "Ruby")
     @name = myname
   end
 
@@ -8,10 +8,9 @@ class HelloWorld
   end
 end
 
-bob = HelloWorld.new('Bob')
-alice = HelloWorld.new('Alice')
+bob = HelloWorld.new("Bob")
+alice = HelloWorld.new("Alice")
 ruby = HelloWorld.new
 
 bob.hello
-alice.hello
-ruby.hello
+
